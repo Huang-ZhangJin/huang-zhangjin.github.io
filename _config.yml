@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhihao Liang (梁智灏)"
-description              : "Ph.D. in South China University of Technology (SCUT). Focusing on 3D"
-repository               : "lzhnb/lzhnb.github.io"
+title                    : "Zhangjin Huang (黄张金)"
+description              : "South China University of Technology (SCUT). Focusing on 3D"
+repository               : "https://huang-zhangjin.github.io/zjhuang.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  oQpAzREAAAAJ
+google_analytics_id      : 
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhihao Liang (梁智灏)"
-  avatar           : "images/head.png"
+  name             : "Zhangjin Huang (黄张金)"
+  avatar           : 
   bio              : "South China University of Technology"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=oQpAzREAAAAJ"
-  email            : "eezhihaoliang@mail.scut.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Zhihao-Liang-3"
+  googlescholar    :
+  email            : "eehuangzhangjin@mail.scut.edu.cn"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lzhnb" # e.g., "github username"
+  github           : "Huang-ZhangJin" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
