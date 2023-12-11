@@ -41,6 +41,20 @@ Zhihao Liang\*, **Zhangjin Huang\***, Changxing Ding, Kui Jia
 </div>
 </div>
 
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">arXiv 2023</div><img src="images/ScutSurf.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+[Surface Reconstruction from Point Clouds: A Survey and a Benchmark](https://arxiv.org/pdf/2205.02413.pdf)
+
+**Zhangjin Huang\***, Yuxin Wen*, Zihao Wang, Jinjuan Ren, Kui Jia
+
+[**Project**](https://gorilla-lab-scut.github.io/SurfaceReconstructionBenchmark/) | [**Code**](https://github.com/Gorilla-Lab-SCUT/SCUTSurface-code)
+- We review and benchmark existing methods in the new era of deep learning surface reconstruction. We contribute a large-scale benchmarking dataset consisting of both synthetic and real-scanned data; the benchmark includes object- and scene-level surfaces and takes into account various sensing imperfections that are commonly encountered in practical depth scanning. We conduct thorough empirical studies by comparing existing methods on the constructed benchmark. Our studies help identity the best conditions under which different methods work, and suggest some empirical findings.
+
+
+</div>
+</div>
+
 
 # 📖 Educations
 - *2021.09 -  Now*, Master, South China University of Technology, Guangzhou.
