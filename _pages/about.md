@@ -34,7 +34,7 @@ I mainly focus on **3D Computer Vision**. My current research interests include 
 
 [HelixSurf: A Robust and Efficient Neural Implicit Surface Learning of Indoor Scenes with Iterative Intertwined Regularization](https://arxiv.org/pdf/2302.14340.pdf)
 
-**Zhihao Liang\***, Zhangjin Huang\*, Changxing Ding, Kui Jia
+Zhihao Liang\*, **Zhangjin Huang\***, Changxing Ding, Kui Jia
 
 [**Project**](https://lzhnb.github.io/project-pages/helixsurf.html) | [**Code**](https://github.com/Gorilla-Lab-SCUT/HelixSurf)
 - We present a novel method of HelixSurf for reconstruction of indoor scene surface from multi-view images. HelixSurf enjoys the complementary benefits of the traditional MVS and the recent neural implicit surface learning, by regularizing the learning/optimization of one strategy iteratively using the intermediate prediction from the other.
