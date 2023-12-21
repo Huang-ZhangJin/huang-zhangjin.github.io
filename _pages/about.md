@@ -28,6 +28,19 @@ I mainly focus on **3D Computer Vision**. My current research interests include 
 
 # 📝 Publications
 
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">arXiv 2023</div><img src="images/sur2f.png" alt="sym" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+[Sur<sup>2</sup>f: A Hybrid Representation for High-Quality and Efficient Surface Reconstruction from Multi-view Images](https://arxiv.org/pdf/XXX.pdf)
+
+ **Zhangjin Huang\***, Zhihao Liang\*, Haojie Zhang, Yangkai Lin, Kui Jia
+
+[**Project**](https://huang-zhangjin.github.io/project-pages/sur2f.html) 
+<!-- | [**Code**](https://github.com/Gorilla-Lab-SCUT/HelixSurf) -->
+- We propose a new hybrid representation, termed Sur<sup>2</sup>f, that can enjoy the benefits of both explicit and implicit surface representations. This is achieved by learning two parallel streams of an implicit SDF and an explicit surrogate surface mesh, both of which, by rendering, receive supervision from multi-view image observations.
+</div>
+</div>
+
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">CVPR 2023</div><img src="images/HelixSurf.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
@@ -41,7 +54,7 @@ Zhihao Liang\*, **Zhangjin Huang\***, Changxing Ding, Kui Jia
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">arXiv 2023</div><img src="images/ScutSurf.png" alt="sym" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">arXiv 2022</div><img src="images/ScutSurf.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
 [Surface Reconstruction from Point Clouds: A Survey and a Benchmark](https://arxiv.org/pdf/2205.02413.pdf)
