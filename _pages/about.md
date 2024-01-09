@@ -31,7 +31,7 @@ I mainly focus on **3D Computer Vision**. My current research interests include 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">arXiv 2023</div><img src="images/sur2f.png" alt="sym" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
-[Sur<sup>2</sup>f: A Hybrid Representation for High-Quality and Efficient Surface Reconstruction from Multi-view Images](https://huang-zhangjin.github.io/project-pages/comming_soom.html)
+[Sur<sup>2</sup>f: A Hybrid Representation for High-Quality and Efficient Surface Reconstruction from Multi-view Images](https://arxiv.org/abs/2401.03704)
 
  **Zhangjin Huang\***, Zhihao Liang\*, Haojie Zhang, Yangkai Lin, Kui Jia
 
