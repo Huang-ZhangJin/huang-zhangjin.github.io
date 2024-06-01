@@ -35,7 +35,7 @@ I mainly focus on **3D Computer Vision**. My current research interests include 
 
  **Zhangjin Huang\***, Zhihao Liang\*, Haojie Zhang, Yangkai Lin, Kui Jia
 
-[**Project**](https://huang-zhangjin.github.io/project-pages/sur2f.html) | [**Code**](https://huang-zhangjin.github.io/project-pages/comming_soom.html)
+[**Project**](https://huang-zhangjin.github.io/project-pages/sur2f.html) | [**Code**](https://github.com/Gorilla-Lab-SCUT/Sur2f)
 <!-- | [**Code**](https://github.com/Gorilla-Lab-SCUT/HelixSurf) -->
 - We propose a new hybrid representation, termed Sur<sup>2</sup>f, that can enjoy the benefits of both explicit and implicit surface representations. This is achieved by learning two parallel streams of an implicit SDF and an explicit surrogate surface mesh, both of which, by rendering, receive supervision from multi-view image observations.
 </div>
