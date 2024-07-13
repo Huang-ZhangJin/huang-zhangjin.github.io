@@ -17,7 +17,12 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-I am currently a Master at [South China University of Techonology (SCUT)](https://www.scut.edu.cn/en/), advised by [Prof. Kui Jia](http://kuijia.site/). I received my bachelor degree from the same university (i.e. SCUT) in 2021, and expect to obtain my Master degree in 2024. 
+<!-- I am currently a Master at [South China University of Techonology (SCUT)](https://www.scut.edu.cn/en/), advised by [Prof. Kui Jia](http://kuijia.site/).  -->
+<!-- I received my Master's degree in Electronic Information from [South China University of Techonology (SCUT)](https://www.scut.edu.cn/en/), advised by [Prof. Kui Jia](http://kuijia.site/). 
+I received my bachelor degree from the same university (i.e. SCUT) in 2021, and expect to obtain my Master degree in 2024.  -->
+
+I received my Master's degree in Electronic Information from [South China University of Techonology (SCUT)](https://www.scut.edu.cn/en/) in 2024, under the supervision by [Prof. Kui Jia](http://kuijia.site/). 
+I obtained my bachelor degree from the same university (i.e. SCUT) in 2021.
 
 I mainly focus on **3D Computer Vision**. My current research interests include Computer Graphics, 3D Shape Modeling and Reconstruction. Recently, I am working on Multi-View Reconstruction.
 
@@ -70,5 +75,5 @@ Zhihao Liang\*, **Zhangjin Huang\***, Changxing Ding, Kui Jia
 
 
 # 📖 Educations
-- *2021.09 -  Now*, Master, South China University of Technology, Guangzhou.
+- *2021.09 -  2024.06*, Master, South China University of Technology, Guangzhou.
 - *2017.09 - 2021.06*, Undergraduate, South China University of Technology, Guangzhou.
